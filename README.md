@@ -6,18 +6,18 @@ The dataset which I used here is : https://statso.io/t20-world-cup-2022-dataset/
 
 Here are a few of the most notable results from the analysis:
 
-1.England won the most number of matches, being the eventual winners of the world cup 
+England Triumph: England emerged as the champions, winning the most matches in the tournament.
 
-2.Virat Kohli scored highest in the most number of matches and was the highest run scorer in the tournament 
+Kohli's Dominance: Virat Kohli stood out as the highest run-scorer and consistently performed well throughout.
 
-3.Sam Curran was the best bowler in the most number of matches but Wanindu Hasaranga was the highest wicket taker 
+Bowling Brilliance: Sam Curran showcased his bowling prowess in several matches, while Wanindu Hasaranga topped the wicket-taking charts.
 
-4.More teams won by batting first 
+Advantage of Batting First: Teams opting to bat first had a higher success rate in winning matches.
 
-5.More teams decided to bat first 
+Batting First Preference: A majority of teams chose to bat first after winning the toss.
 
-6.SCG was the best stadium to bat first 
+SCG Batting Paradise: The Sydney Cricket Ground (SCG) emerged as the best venue for setting a target.
 
-7.SCG was the best stadium to defend the target in the World Cup 
+SCG Fortress: SCG also proved to be the most challenging ground for chasing teams.
 
-8.The Optus Stadium was the best stadium to bowl first
+Optus Stadium's Bowling Favoritism: Optus Stadium was identified as the optimal venue for teams choosing to bowl first, indicating favorable bowling conditions.
